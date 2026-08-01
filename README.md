@@ -210,7 +210,7 @@ supernova-pitch-deck/
 
 ---
 
-## 🏆 Built for the Backblaze × GenBlaze Hackathon 2026
+## 🏆 Built for the AI Hackathon 2026
 
 This repository contains the **official presentation** used to communicate Supernova's vision, architecture, technical implementation, and business impact to hackathon judges.
 
