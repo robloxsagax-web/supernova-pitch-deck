@@ -6,7 +6,7 @@
 
 **Official Presentation for the Supernova AI Marketing Platform**
 
-_A modern, interactive pitch deck designed for the Backblaze × GenBlaze Hackathon 2026._
+_A modern, interactive pitch deck designed for the Ai Hackathon 2026._
 
 <br />
 
